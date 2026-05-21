@@ -1,0 +1,48 @@
+
+--- Page 1 ---
+Parth Sarthi
+# parthsarthi0320@gmail.com (cid:131) +91 8210768043
++ Sector 76, Noida, UP (cid:239) LinkedIn
+Summary
+Goal-orientedComputerSciencegraduateseekingachallengingroletoapplystrongplanning,organizational,andtechnicalskills.
+Adept at managing tasks efficiently while maintaining high energy and ownership in fast-paced environments.
+Education
+B.Tech in Computer Science & Engineering (2021-2025) Sharda University
+Technical Skills
+• AI / ML: Python, NumPy, Pandas, TensorFlow, PyTorch, Keras, Matplotlib
+• Computational Chemistry: GROMACS, XGrace, CHARMM36, Avogadro
+• Web Development: React, HTML, CSS, JavaScript
+• Languages: Python, Java, SQL, Bash
+• Tools: GitHub, Tableau, VS Code, IntelliJ, Jira, Microsoft tools, Jupyter Notebook
+Experience
+Web Developer Intern Bharat Intern
+May 2023 – June 2023
+• Developed and deployed three independent web applications using HTML, CSS, and JavaScript.
+• Published projects as separate GitHub repositories with live deployments.
+• Projects included a portfolio website, Netflix homepage clone, and a temperature converter web app.
+Projects
+Self-Driving Car Simulation Web Dashboard
+Python, CARLA Simulator, WebGL, Three.js, HTML, CSS, JavaScript
+• Built an interactive AI-driven dashboard to visualize and learn autonomous vehicle simulations.
+• Implemented a novel terrain self-adaptation method for autonomous vehicles.
+• Research outcome led to a government-certified patent.
+Pharmacokinetics, Molecular Docking & Dynamic Simulation
+Python, Bash, GROMACS, XGrace, Matplotlib
+• Worked on protein-ligand complex simulations in collaboration with Delhi University researchers.
+• Handled scripting, simulation execution, and post-simulation analysis.
+Spam Email Detection Using Machine Learning
+Python, TensorFlow, Jupyter Notebook, NumPy, Pandas, Matplotlib, Seaborn, NLTK, WordCloud
+• DesignedandtrainedasupervisedmachinelearningmodelinJupyterNotebooktoclassifyemailsasspamorlegitimateusing
+a labeled mixed-email dataset.
+• ImplementedtextpreprocessingandfeatureextractionusingNLPtechniques(tokenization,stop-wordremoval,vectorization).
+• Achieved 97.3% classification accuracy in spam detection through model optimization and evaluation.
+Achievements & Awards
+• ResearchPaper: “Self-DrivingCarSimulationUsingMachineLearning”presentedatICDMIS2025;acceptedforpublication
+in Springer (forthcoming).
+• Indian Government Certified Patent: Terrain Adaptive System for Autonomous Vehicles
+Patent No: 202511017309
+Workshops & Certifications
+• Java Foundation Certificate – Oracle
+• Web Development Certification – Udemy
+Interests
+Basketball, Photography
