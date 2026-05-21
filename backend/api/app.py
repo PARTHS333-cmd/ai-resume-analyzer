@@ -1,4 +1,5 @@
 from flask import Flask, jsonify
+from flask_cors import CORS
 
 from backend.nlp.skills import SKILLS
 from backend.scoring.ats_score import (
@@ -8,6 +9,7 @@ from backend.scoring.ats_score import (
 )
 
 app = Flask(__name__)
+CORS(app)
 
 # File paths
 RESUME_FILE = "data/extracted/extracted_resume.txt"
